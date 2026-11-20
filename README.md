@@ -323,3 +323,32 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 - **Schema & Relational Model**: 11-table normalized relational music database in PostgreSQL.
 - **Business Operations**: Evaluates sales performance, international invoice distributions, customer lifetime value, and popular genres.
 - **Advanced SQL Queries**: Utilizes CTEs, window functions (DENSE_RANK, ROW_NUMBER), and recursive aggregations to extract actionable commercial insights.
+
+
+---
+
+## 📚 Upstream Sources, Credits & Attributions
+
+This repository consolidates and builds upon high-quality open-source data analytics and business intelligence projects. Sincere gratitude is extended to the original creators:
+
+1. **Data Analytics Projects in Python**
+   - **Upstream Author**: [Sarvesh Kumar Sharma (shsarv)](https://github.com/shsarv)
+   - **Source Repository**: [shsarv/Data-Analytics-Projects-in-python](https://github.com/shsarv/Data-Analytics-Projects-in-python)
+   - **License**: MIT License (Copyright (c) 2020 Sarvesh Kumar Sharma)
+   - **Covered Projects**: `covid19-pandemic-analysis`, `cracow-real-estate-pricing`, `fx-trading-analysis`, `global-terrorism-eda`, `polar-watch-fitness-analysis`.
+
+2. **Music Store Analysis**
+   - **Upstream Author**: [Avishek Choudhary (avishek-choudhary)](https://github.com/avishek-choudhary)
+   - **Source Repository**: [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis)
+   - **Inspiration**: [Music Store SQL Analysis walkthrough](https://youtu.be/VFIuIjswMKM)
+   - **Covered Project**: `Music-Store-Analysis`.
+
+### Distinction of Imported Work vs. Repository Modifications
+- **Imported Material**: Original raw datasets, feature engineering pipelines, visual artifacts, model scripts, and PostgreSQL relational schemas developed by upstream authors.
+- **Portfolio Modifications & Curation**: Aggregated, structured, and curated by **Digvijay Singh Shekhawat ([@ShekhawaTTiku](https://github.com/ShekhawaTTiku))** into a unified multi-disciplinary analytics portfolio. Enhancements include monorepo consolidation, standardized file organization, comprehensive cross-project documentation, and unified execution guides while preserving all original upstream licenses and credits.
+
+---
+
+## License
+
+This repository preserves upstream licenses. Projects imported from `shsarv/Data-Analytics-Projects-in-python` are licensed under the MIT License (see [LICENSE](LICENSE)). The Music Store Analysis dataset and queries are provided under open educational and practice usage.
