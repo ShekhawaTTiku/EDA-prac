@@ -311,10 +311,10 @@ pip install -r requirements.txt
 
 ## Author
 
-**Sarvesh Kumar Sharma**
+**Digvijay Singh Shekhawat**
 
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
+- GitHub: [@ShekhawaTTiku](https://github.com/ShekhawaTTiku)
+- Email: [tiku12004@gmail.com](mailto:tiku12004@gmail.com)
 
 ---
 

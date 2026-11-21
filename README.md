@@ -218,7 +218,7 @@ Each project includes a `requirements.txt` (or `requirements.R` equivalent) for 
 
 ```bash
 # Clone the repository
-git clone https://github.com/shsarv/Data-Analytics-Projects-in-python.git
+git clone https://github.com/ShekhawaTTiku/EDA-prac.git
 cd Data-Analytics-Projects-in-python
 
 # Install Python dependencies (example for Flats in Cracow)
@@ -306,10 +306,10 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Author
 
-**Sarvesh Kumar Sharma**
+**Digvijay Singh Shekhawat**
 
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
+- GitHub: [@ShekhawaTTiku](https://github.com/ShekhawaTTiku)
+- Email: [tiku12004@gmail.com](mailto:tiku12004@gmail.com)
 
 ---
 
