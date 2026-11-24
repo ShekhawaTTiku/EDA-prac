@@ -286,46 +286,6 @@ Data-Analytics-Projects-in-python/
 
 ---
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Please feel free to open an issue or submit a pull request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
----
-
-## Author
-
-**Digvijay Singh Shekhawat**
-
-- GitHub: [@ShekhawaTTiku](https://github.com/ShekhawaTTiku)
-- Email: [tiku12004@gmail.com](mailto:tiku12004@gmail.com)
-
----
-
-<p align="center">
-  Built with ❤️ and a lot of ☕
-</p>
-
-
-## 6. Music Store Analysis (SQL)
-### Key Highlights
-- **Schema & Relational Model**: 11-table normalized relational music database in PostgreSQL.
-- **Business Operations**: Evaluates sales performance, international invoice distributions, customer lifetime value, and popular genres.
-- **Advanced SQL Queries**: Utilizes CTEs, window functions (DENSE_RANK, ROW_NUMBER), and recursive aggregations to extract actionable commercial insights.
-
-
----
 
 ## 📚 Upstream Sources, Credits & Attributions
 
